@@ -1,0 +1,17 @@
+D:\Samples\CRUD Task\MCVTask\MCVTask.Infrastructure\obj\Debug\net6.0\MCVTask.Infrastructure.csproj.AssemblyReference.cache
+D:\Samples\CRUD Task\MCVTask\MCVTask.Infrastructure\obj\Debug\net6.0\MCVTask.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samples\CRUD Task\MCVTask\MCVTask.Infrastructure\obj\Debug\net6.0\MCVTask.Infrastructure.AssemblyInfoInputs.cache
+D:\Samples\CRUD Task\MCVTask\MCVTask.Infrastructure\obj\Debug\net6.0\MCVTask.Infrastructure.AssemblyInfo.cs
+D:\Samples\CRUD Task\MCVTask\MCVTask.Infrastructure\obj\Debug\net6.0\MCVTask.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Samples\CRUD Task\MCVTask\MCVTask.Infrastructure\bin\Debug\net6.0\MCVTask.Infrastructure.deps.json
+D:\Samples\CRUD Task\MCVTask\MCVTask.Infrastructure\bin\Debug\net6.0\MCVTask.Infrastructure.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.Infrastructure\bin\Debug\net6.0\ref\MCVTask.Infrastructure.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.Infrastructure\bin\Debug\net6.0\MCVTask.Infrastructure.pdb
+D:\Samples\CRUD Task\MCVTask\MCVTask.Infrastructure\bin\Debug\net6.0\MCVTask.Base.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.Infrastructure\bin\Debug\net6.0\MCVTask.Domain.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.Infrastructure\bin\Debug\net6.0\MCVTask.Domain.pdb
+D:\Samples\CRUD Task\MCVTask\MCVTask.Infrastructure\bin\Debug\net6.0\MCVTask.Base.pdb
+D:\Samples\CRUD Task\MCVTask\MCVTask.Infrastructure\obj\Debug\net6.0\MCVTask.Infrastructure.csproj.CopyComplete
+D:\Samples\CRUD Task\MCVTask\MCVTask.Infrastructure\obj\Debug\net6.0\MCVTask.Infrastructure.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.Infrastructure\obj\Debug\net6.0\ref\MCVTask.Infrastructure.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.Infrastructure\obj\Debug\net6.0\MCVTask.Infrastructure.pdb

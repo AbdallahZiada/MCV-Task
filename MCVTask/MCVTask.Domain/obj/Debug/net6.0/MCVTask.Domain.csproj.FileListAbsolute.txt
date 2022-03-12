@@ -1,0 +1,15 @@
+D:\Samples\CRUD Task\MCVTask\MCVTask.Domain\obj\Debug\net6.0\MCVTask.Domain.csproj.AssemblyReference.cache
+D:\Samples\CRUD Task\MCVTask\MCVTask.Domain\obj\Debug\net6.0\MCVTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samples\CRUD Task\MCVTask\MCVTask.Domain\obj\Debug\net6.0\MCVTask.Domain.AssemblyInfoInputs.cache
+D:\Samples\CRUD Task\MCVTask\MCVTask.Domain\obj\Debug\net6.0\MCVTask.Domain.AssemblyInfo.cs
+D:\Samples\CRUD Task\MCVTask\MCVTask.Domain\obj\Debug\net6.0\MCVTask.Domain.csproj.CoreCompileInputs.cache
+D:\Samples\CRUD Task\MCVTask\MCVTask.Domain\bin\Debug\net6.0\MCVTask.Domain.deps.json
+D:\Samples\CRUD Task\MCVTask\MCVTask.Domain\bin\Debug\net6.0\MCVTask.Domain.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.Domain\bin\Debug\net6.0\ref\MCVTask.Domain.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.Domain\bin\Debug\net6.0\MCVTask.Domain.pdb
+D:\Samples\CRUD Task\MCVTask\MCVTask.Domain\bin\Debug\net6.0\MCVTask.Base.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.Domain\bin\Debug\net6.0\MCVTask.Base.pdb
+D:\Samples\CRUD Task\MCVTask\MCVTask.Domain\obj\Debug\net6.0\MCVTask.Domain.csproj.CopyComplete
+D:\Samples\CRUD Task\MCVTask\MCVTask.Domain\obj\Debug\net6.0\MCVTask.Domain.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.Domain\obj\Debug\net6.0\ref\MCVTask.Domain.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.Domain\obj\Debug\net6.0\MCVTask.Domain.pdb

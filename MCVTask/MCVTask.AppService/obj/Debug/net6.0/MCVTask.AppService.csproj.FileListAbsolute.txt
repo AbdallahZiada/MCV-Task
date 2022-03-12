@@ -1,0 +1,17 @@
+D:\Samples\CRUD Task\MCVTask\MCVTask.AppService\bin\Debug\net6.0\MCVTask.AppService.deps.json
+D:\Samples\CRUD Task\MCVTask\MCVTask.AppService\bin\Debug\net6.0\MCVTask.AppService.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.AppService\bin\Debug\net6.0\ref\MCVTask.AppService.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.AppService\bin\Debug\net6.0\MCVTask.AppService.pdb
+D:\Samples\CRUD Task\MCVTask\MCVTask.AppService\bin\Debug\net6.0\MCVTask.Base.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.AppService\bin\Debug\net6.0\MCVTask.Domain.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.AppService\bin\Debug\net6.0\MCVTask.Base.pdb
+D:\Samples\CRUD Task\MCVTask\MCVTask.AppService\bin\Debug\net6.0\MCVTask.Domain.pdb
+D:\Samples\CRUD Task\MCVTask\MCVTask.AppService\obj\Debug\net6.0\MCVTask.AppService.csproj.AssemblyReference.cache
+D:\Samples\CRUD Task\MCVTask\MCVTask.AppService\obj\Debug\net6.0\MCVTask.AppService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samples\CRUD Task\MCVTask\MCVTask.AppService\obj\Debug\net6.0\MCVTask.AppService.AssemblyInfoInputs.cache
+D:\Samples\CRUD Task\MCVTask\MCVTask.AppService\obj\Debug\net6.0\MCVTask.AppService.AssemblyInfo.cs
+D:\Samples\CRUD Task\MCVTask\MCVTask.AppService\obj\Debug\net6.0\MCVTask.AppService.csproj.CoreCompileInputs.cache
+D:\Samples\CRUD Task\MCVTask\MCVTask.AppService\obj\Debug\net6.0\MCVTask.AppService.csproj.CopyComplete
+D:\Samples\CRUD Task\MCVTask\MCVTask.AppService\obj\Debug\net6.0\MCVTask.AppService.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.AppService\obj\Debug\net6.0\ref\MCVTask.AppService.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.AppService\obj\Debug\net6.0\MCVTask.AppService.pdb

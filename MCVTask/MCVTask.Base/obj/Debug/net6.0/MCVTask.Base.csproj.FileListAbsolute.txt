@@ -1,0 +1,12 @@
+D:\Samples\CRUD Task\MCVTask\MCVTask.Base\bin\Debug\net6.0\MCVTask.Base.deps.json
+D:\Samples\CRUD Task\MCVTask\MCVTask.Base\bin\Debug\net6.0\MCVTask.Base.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.Base\bin\Debug\net6.0\ref\MCVTask.Base.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.Base\bin\Debug\net6.0\MCVTask.Base.pdb
+D:\Samples\CRUD Task\MCVTask\MCVTask.Base\obj\Debug\net6.0\MCVTask.Base.csproj.AssemblyReference.cache
+D:\Samples\CRUD Task\MCVTask\MCVTask.Base\obj\Debug\net6.0\MCVTask.Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Samples\CRUD Task\MCVTask\MCVTask.Base\obj\Debug\net6.0\MCVTask.Base.AssemblyInfoInputs.cache
+D:\Samples\CRUD Task\MCVTask\MCVTask.Base\obj\Debug\net6.0\MCVTask.Base.AssemblyInfo.cs
+D:\Samples\CRUD Task\MCVTask\MCVTask.Base\obj\Debug\net6.0\MCVTask.Base.csproj.CoreCompileInputs.cache
+D:\Samples\CRUD Task\MCVTask\MCVTask.Base\obj\Debug\net6.0\MCVTask.Base.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.Base\obj\Debug\net6.0\ref\MCVTask.Base.dll
+D:\Samples\CRUD Task\MCVTask\MCVTask.Base\obj\Debug\net6.0\MCVTask.Base.pdb
